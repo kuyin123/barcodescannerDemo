@@ -512,7 +512,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       }
       drawResultPoints(barcode, scaleFactor, rawResult);
     }
-    source = IntentSource.NATIVE_APP_INTENT;
+   // source = IntentSource.NATIVE_APP_INTENT;
     switch (source) {
       case NATIVE_APP_INTENT:
       case PRODUCT_SEARCH_LINK:

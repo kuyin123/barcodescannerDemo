@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="E:\github-wokerplace\barcodescannerDemo\barcodescannerDemo\barcodescanner\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bba2865dcb9165805834cab742ddb6c26be93d70">
+        <dex dex="E:\github-wokerplace\barcodescannerDemo\barcodescannerDemo\app\build\intermediates\pre-dexed\debug\classes_22552525c74dcb7d5d2180cffb7d5414354f3fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\AppWorkspace\Test\barcodescanner\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
