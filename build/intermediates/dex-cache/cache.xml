@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AppWorkspace\Test\barcodescanner\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bba2865dcb9165805834cab742ddb6c26be93d70">
+        <dex dex="D:\AppWorkspace\Test\app\build\intermediates\pre-dexed\debug\classes_9ef3660f5d5a1e2b54a35a4e424ed7307a3dab5c.jar" />
+    </item>
+
+</items>
